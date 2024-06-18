@@ -1,5 +1,5 @@
 {
-  "name": "react-native-network-logger",
+  "name": "react-native-network-logger-customized",
   "version": "1.16.1",
   "description": "An HTTP traffic monitor for React Native with zero dependencies",
   "main": "lib/commonjs/index",

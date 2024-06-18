@@ -149,7 +149,7 @@ const themedStyles = (theme: Theme) =>
     },
     text: {
       color: theme.colors.text,
-      fontSize: 16,
+      fontSize: 12,
     },
     content: {
       paddingLeft: 5,
@@ -158,7 +158,7 @@ const themedStyles = (theme: Theme) =>
       flex: 1,
     },
     method: {
-      fontSize: 18,
+      fontSize: 14,
       fontWeight: 'bold',
       textAlign: 'center',
       padding: 0,
@@ -181,7 +181,7 @@ const themedStyles = (theme: Theme) =>
     },
     gqlText: {
       color: theme.colors.onSecondary,
-      fontSize: 14,
+      fontSize: 12,
     },
   });
 
